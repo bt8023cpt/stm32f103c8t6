@@ -6,12 +6,12 @@
 
 - MDK-ARM v5.22
 
-![image](https://github.com/bt8023cpt/stm32f103c8t6/tree/master/image/MDK-ARM.png)
+![image](https://github.com/bt8023cpt/stm32f103c8t6/blob/master/image/MDK-ARM.png)
 
 ### 硬件资源
 
 - stm32f103c8t6 最小系统
 
-![image](https://github.com/bt8023cpt/stm32f103c8t6/tree/master/image/stm32f103c8t6.png)
+![image](https://github.com/bt8023cpt/stm32f103c8t6/blob/master/image/stm32f103c8t6.png)
 
 - Micro-USB 下载线
