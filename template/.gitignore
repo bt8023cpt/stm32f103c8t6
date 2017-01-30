@@ -1,0 +1,13 @@
+﻿# 本文件是 git 的忽略文件
+# #之后是注释
+
+# 忽略 Listing 目录下的所有文件
+/Listing/*
+
+# 忽略 Output 目录下的所有文件
+/Output/*
+
+# 忽略 Project 目录下除了.uvprojx和.uvoptx格式的其他文件
+/Project/*
+!/Project/*.uvprojx
+!/Project/*.uvoptx
